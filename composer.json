@@ -7,11 +7,11 @@
   ],
   "authors": [
     {
-      "name": "Nekrasov Ilya",
-      "email": "nekrasov.ilya90@gmail.com"
+      "name": "Sokolov Anton",
+      "email": "anton@citrus-soft.ru"
     }
   ],
-  "homepage": "https://github.com/Arrilot/bitrix-cacher",
+  "homepage": "https://github.com/alukard12rus/bitrix-cacher",
   "require": {
     "php": ">=5.4.0"
   },
